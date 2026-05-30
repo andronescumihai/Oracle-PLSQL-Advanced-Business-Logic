@@ -481,7 +481,7 @@ BEGIN
         CLOSE c_lucrari;
 
         DBMS_OUTPUT.PUT_LINE('TOTAL_ARTIST | ' || v_total);
-        DBMS_OUTPUT.PUT_LINE('-------------------------');
+        DBMS_OUTPUT.PUT_LINE('-----');
     END LOOP;
 
     CLOSE c_artisti;
@@ -536,7 +536,7 @@ BEGIN
         CLOSE c_lucrari;
 
         DBMS_OUTPUT.PUT_LINE('TOTAL_EXPOZITIE | ' || v_total);
-        DBMS_OUTPUT.PUT_LINE('-------------------------');
+        DBMS_OUTPUT.PUT_LINE('----');
     END LOOP;
 
     CLOSE c_expozitii;
