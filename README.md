@@ -5,7 +5,7 @@
 **A complete Oracle database programming system for an Art Gallery, built with stored procedures, triggers, packages, cursors, and custom exception handling.**
 
 [![Oracle](https://img.shields.io/badge/Oracle-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
-[![SQL Developer](https://img.shields.io/badge/SQL_Developer-4.1%2B-4479A1?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)
+[![SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-IDE-4479A1?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)
 [![Academic](https://img.shields.io/badge/ASE_București-SGBD_Project-003087?style=for-the-badge)](https://www.ase.ro/)
 
 </div>
